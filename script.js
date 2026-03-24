@@ -1,7 +1,7 @@
 function greet(name){
     return`Привет, ${name}!`;
     }
-    functionfarewell(name){
+function farewell(name){
     return`Пока, ${name}!`;
     }
     console.log(greet('Мир'));
