@@ -1,1 +1,9 @@
 mynotes.txt
+.DS_Store
+Thumbs.db
+
+node_modules/
+.env
+
+*.log
+*.tmp
